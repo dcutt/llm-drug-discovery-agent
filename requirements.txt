@@ -1,0 +1,22 @@
+# local package
+-e .
+black
+chembl_webresource_client
+chromadb
+
+# external requirements
+click
+coverage
+datamol
+flake8
+isort
+jupyter
+langchain
+langchain-openai
+mypy
+pre-commit
+pypdf
+python-dotenv>=0.5.1
+Sphinx
+tiktoken
+torch
