@@ -13,6 +13,7 @@ isort
 jupyter
 langchain
 langchain-openai
+langchainhub
 mypy
 pre-commit
 pypdf
