@@ -8,11 +8,17 @@ llm-agent-drug-discovery documentation!
 
 Contents:
 
+.. automodule:: src.drug_discovery_agent.agent
+    :members:
+.. automodule:: src.models.molecular_sklearn_regressor
+    :members:
+
+
+
 .. toctree::
    :maxdepth: 2
 
    getting-started
-   commands
 
 
 

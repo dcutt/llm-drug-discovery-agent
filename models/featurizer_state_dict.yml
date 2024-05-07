@@ -1,0 +1,8 @@
+_molfeat_version: 0.10.0
+args:
+  dtype: float
+  featurizer: desc2D
+  n_jobs: 1
+  parallel_kwargs: null
+  verbose: false
+name: MoleculeTransformer
